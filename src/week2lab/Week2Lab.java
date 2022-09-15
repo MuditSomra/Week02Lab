@@ -17,6 +17,9 @@ public class Week2Lab {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("Sorry I have database assignment to do so cant be creative now");
+        for(int i=0;i<3;i++){
+            System.out.println("Thanks for clearing my concepts");
+        }
     }
     
 }
